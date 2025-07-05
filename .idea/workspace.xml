@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a966e02-271b-416d-96ae-6ab648f6530a" name="Changes" comment="3rd commit" />
+    <list default="true" id="6a966e02-271b-416d-96ae-6ab648f6530a" name="Changes" comment="4th commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,8 +45,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\SUNFLOWER\Desktop\labexamallSolvedassignment\prolog" />
       <recent name="C:\Users\SUNFLOWER\Desktop\labexamallSolvedassignment" />
+      <recent name="C:\Users\SUNFLOWER\Desktop\labexamallSolvedassignment\prolog" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -104,12 +104,21 @@
       <option name="project" value="LOCAL" />
       <updated>1751711170680</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="4th commit">
+      <option name="closed" value="true" />
+      <created>1751712488913</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751712488913</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2nd commit" />
     <MESSAGE value="3rd commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="3rd commit" />
+    <MESSAGE value="4th commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="4th commit" />
   </component>
 </project>
